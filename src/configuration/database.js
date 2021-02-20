@@ -1,6 +1,8 @@
 import { Sequelize } from 'sequelize';
 
-const db = new Sequelize('mysql', 'root', '123123', {
+let { USER, PASSWORD } = process.env
+
+const db = new Sequelize('mysql', USER, PASSWORD, {
     host: 'localhost',
     dialect: 'mysql',
 });
