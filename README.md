@@ -2,40 +2,24 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 
 <br />
 
 <p align="center">
   <a href="">
-    <img src="logo.png" alt="Logo" width="160" height="160">
+    <img src="logo.png" alt="Logo" width="320" height="320">
   </a>
-
 
   <h3 align="center">NodeJS starter template</h3>
 
   <p align="center">
     Simple nodejs REST API preconfigure starter
-    <!-- <br />
-    <a href="https://github.com/fernandobelotto/nodejs-crud"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <!-- <a href="https://github.com/fernandobelotto/nodejs-crud">View Demo</a>
-    · -->
     <a href="https://github.com/fernandobelotto/nodejs-crud/issues">Report Bug</a>
-    ·
     <a href="https://github.com/fernandobelotto/nodejs-crud/issues">Request Feature</a>
   </p>
-
 </p>
-
-
-
-
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -62,11 +46,6 @@
   </ol>
 </details>
 
-
-
-
-
-
 ## About The Project
 
 This is an simple base project for creating rapid REST Api using NodeJS and Express.
@@ -74,7 +53,7 @@ This is an simple base project for creating rapid REST Api using NodeJS and Expr
 ### Built With
 
 | Lib         | Version |
-|-------------|---------|
+| ----------- | ------- |
 | express     | 4.17.1  |
 | body-parser | 1.19.0  |
 | cors        | 2.8.5   |
@@ -94,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* npm
+- npm
 
   ```sh
   npm install npm@latest -g
@@ -126,11 +105,9 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
 ## Roadmap
 
 See the [open issues](https://github.com/fernandobelotto/nodejs-crud/issues) for a list of proposed features (and known issues).
-
 
 ## Contributing
 
@@ -151,7 +128,6 @@ Distributed under the MIT License.
 Fernando Belotto - [@ferbelottodev](https://twitter.com/ferbelottodev) - fernando.bbosco@gmail.com
 
 Project Link: [https://github.com/fernandobelotto/nodejs-crud](https://github.com/fernandobelotto/nodejs-crud)
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/fernandobelotto/nodejs-crud.svg?style=for-the-badge
 [contributors-url]: https://github.com/fernandobelotto/nodejs-crud/graphs/contributors
