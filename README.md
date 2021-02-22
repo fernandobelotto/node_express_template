@@ -6,9 +6,7 @@
 <br />
 
 <p align="center">
-  <a href="">
-    <img src="logo.png" alt="Logo">
-  </a>
+  <img src="logo.png" alt="Logo">
 
   <h3 align="center">NodeJS starter template</h3>
 
