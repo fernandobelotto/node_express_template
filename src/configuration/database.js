@@ -1,6 +1,9 @@
-import { Sequelize } from 'sequelize';
+import dotenv from "dotenv";
+dotenv.config();
 
-let { USER, PASSWORD } = process.env
+const { USER, PASSWORD } = process.env;
+
+import { Sequelize } from 'sequelize';
 
 const db = new Sequelize('mysql', USER, PASSWORD, {
     host: 'localhost',
