@@ -73,16 +73,17 @@ This is an simple base project for creating rapid REST Api using NodeJS and Expr
 
 ### Built With
 
-    "express": "^4.17.1",
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.2.5",
-    "pg": "^8.5.1",
-    "pg-hstore": "^2.3.3",
-    "sequelize": "^6.5.0"
-
+| Lib         | Version |
+|-------------|---------|
+| express     | 4.17.1  |
+| body-parser | 1.19.0  |
+| cors        | 2.8.5   |
+| dotenv      | 8.2.0   |
+| mysql       | 2.18.1  |
+| mysql2      | 2.2.5   |
+| pg          | 8.5.1   |
+| pg-hstore   | 2.3.3   |
+| sequelize   | 6.5     |
 
 ## Getting Started
 
@@ -126,15 +127,9 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-
-
 ## Roadmap
 
 See the [open issues](https://github.com/fernandobelotto/nodejs-crud/issues) for a list of proposed features (and known issues).
-
-
-
 
 
 ## Contributing
@@ -147,17 +142,9 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-
-
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-
+Distributed under the MIT License.
 
 ## Contact
 
@@ -165,9 +152,6 @@ Fernando Belotto - [@ferbelottodev](https://twitter.com/ferbelottodev) - fernand
 
 Project Link: [https://github.com/fernandobelotto/nodejs-crud](https://github.com/fernandobelotto/nodejs-crud)
 
-
-
-<!-- https://www.markdownguide.org/basic-syntax/
 
 [contributors-shield]: https://img.shields.io/github/contributors/fernandobelotto/nodejs-crud.svg?style=for-the-badge
 [contributors-url]: https://github.com/fernandobelotto/nodejs-crud/graphs/contributors
